@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.search input {
+  width: 480px;
+  height: 56px;
+  padding-left: 30px;
+}
+.search select {
+  width: 200px;
+}
+
+.card-img-top {
+  width: 267px;
+  height: 160px !important;
+}
+
+.back {
+  text-decoration: none;
+  color: #000;
+}
+
+.Info_flag {
+  width: 560px;
+  height: 400px;
+}/*# sourceMappingURL=style.css.map */
